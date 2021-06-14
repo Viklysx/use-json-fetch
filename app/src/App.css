@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.block {
+  padding: 10px;
+  border-bottom: 1px solid #61dafb;
+  width: 50%;
+  margin: 0 auto;
+  color: #282c34ad;
+  font-size: larger;
+  font-weight: 500;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
